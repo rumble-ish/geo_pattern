@@ -33,16 +33,7 @@ module GeoPattern
         hexagons: StructureGenerators::HexagonsGenerator,
         mosaic_squares: StructureGenerators::MosaicSquaresGenerator,
         nested_squares: StructureGenerators::NestedSquaresGenerator,
-        octagons: StructureGenerators::OctagonsGenerator,
-        overlapping_circles: StructureGenerators::OverlappingCirclesGenerator,
-        overlapping_rings: StructureGenerators::OverlappingRingsGenerator,
-        plaid: StructureGenerators::PlaidGenerator,
-        plus_signs: StructureGenerators::PlusSignsGenerator,
-        sine_waves: StructureGenerators::SineWavesGenerator,
-        squares: StructureGenerators::SquaresGenerator,
-        tessellation: StructureGenerators::TessellationGenerator,
-        triangles: StructureGenerators::TrianglesGenerator,
-        xes: StructureGenerators::XesGenerator
+        octagons: StructureGenerators::OctagonsGenerator
       }
     end
 
